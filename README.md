@@ -8,13 +8,12 @@
 - 📱 **Mobile Developer** with 2+ years of experience building production-ready apps using **Flutter & Dart**[cite: 1].
 - 🏢 Currently working at **KassaPOS Software Solutions**, focusing on scalable logistics and billing systems[cite: 1].
 - ⚙️ Strong advocate for **Clean Architecture**, using **BLoC and Provider** for state management[cite: 1].
-- 🎓 Preparing for a **Master's Degree Programme in Computer Science** (2026/2027) at Masaryk / Brno University of Technology.
 - 🇯🇵 Hold a **JLPT N5** certification and continuously improving my Japanese proficiency[cite: 1].
 
 ### 🛠️ Technologies & Architecture
 - **Mobile Development:** Flutter, Dart[cite: 1]
 - **Architecture & State:** Clean Architecture, Multi-tenant Architecture, BLoC, Provider[cite: 1]
-- **Backend & APIs:** REST APIs, Firebase[cite: 1], Supabase, Node.js, PostgreSQL
+- **Backend & APIs:** REST APIs, Firebase[cite: 1], Supabase, Node.js, PostgreSQL,asp .net
 - **App Capabilities:** GPS Tracking, Push Notifications, SMTP/WhatsApp automation[cite: 1], Hardware Print Integrations (ESC/POS)
 - **Tools:** Git, Log-based debugging, Patch/Release Management[cite: 1]
 
