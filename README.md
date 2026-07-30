@@ -1,38 +1,38 @@
 # 👋 Hi, I'm Anantha Krishnan
 
-### Welcome to my GitHub profile! I'm a passionate Full Stack Engineer with a focus on building dynamic and responsive web applications.
+### Welcome to my GitHub profile! I'm a Mobile & Full-Stack Developer specializing in Flutter, clean architecture, and building enterprise-grade applications.
 
 ---
 
 ### 🚀 About Me
-- 💻 **Full Stack Developer** specializing in **PHP** and **Java**.
-- 🌐 Currently working on an e-commerce platform using the **MERN stack**.
-- 🎓 **BE in Computer Science** (2023), with hands-on experience in software development.
-- 🇯🇵 Learning **Japanese** with a goal to work in Japan as a bilingual tech professional.
-- 💡 Love to solve complex problems and contribute to open-source projects.
+- 📱 **Mobile Developer** with 2+ years of experience building production-ready apps using **Flutter & Dart**[cite: 1].
+- 🏢 Currently working at **KassaPOS Software Solutions**, focusing on scalable logistics and billing systems[cite: 1].
+- ⚙️ Strong advocate for **Clean Architecture**, using **BLoC and Provider** for state management[cite: 1].
+- 🎓 Preparing for a **Master's Degree Programme in Computer Science** (2026/2027) at Masaryk / Brno University of Technology.
+- 🇯🇵 Hold a **JLPT N5** certification and continuously improving my Japanese proficiency[cite: 1].
 
-### 🛠️ Technologies & Tools
-- **Frontend:** React, HTML, CSS, Bootstrap
-- **Backend:** Node.js, Express, PHP, Java
-- **Database:** MongoDB, MySQL
-- **Dev Tools:** Git, Visual Studio Code, Docker
-- **Other:** JWT, RESTful APIs, Microservices
+### 🛠️ Technologies & Architecture
+- **Mobile Development:** Flutter, Dart[cite: 1]
+- **Architecture & State:** Clean Architecture, Multi-tenant Architecture, BLoC, Provider[cite: 1]
+- **Backend & APIs:** REST APIs, Firebase[cite: 1], Supabase, Node.js, PostgreSQL
+- **App Capabilities:** GPS Tracking, Push Notifications, SMTP/WhatsApp automation[cite: 1], Hardware Print Integrations (ESC/POS)
+- **Tools:** Git, Log-based debugging, Patch/Release Management[cite: 1]
 
-### 🌱 What I'm Learning
-- 📚 Expanding my knowledge in **Blockchain Technology**.
-- 🗣️ Enhancing my **Japanese** language skills.
-
-### 💼 Work Experience
-- **Sathish System Private Limited**: Interned as a Software Developer working on an **Exam Management System** using Laravel and PHP.
-- **Personal Projects**: Working on a **Namma Nanban Bakery** website using the MERN stack.
+### 💼 Work Experience & Projects
+- 💼 **Software Developer (Mobile) @ KassaPOS Software Solutions** *(May 2024 - Present)*[cite: 1]
+  - Building responsive Flutter apps (Android & Tablet) for enterprise logistics and billing clients[cite: 1].
+- 🚚 **Maleva (Enterprise Logistics App)**
+  - Developed field operations, CRM, and RTI modules with real-time GPS tracking and Firebase notifications[cite: 1].
+- 🏪 **NammaNanban (Multi-Tenant POS App)** 
+  - Built a highly scalable mobile billing application isolating data for retail, wholesale, and service businesses[cite: 1].
 
 ### 📈 GitHub Stats
 ![Anantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=akrishnan17&show_icons=true&theme=radical)
 
 ### 📫 How to Reach Me
-- **Email:** [pananthakrishnan939@gmail.com](mailto:pananthakrishnan939@gmail.com)
-- **LinkedIn:** [Anantha Krishnan](https://www.linkedin.com/in/anantha-krishnan17)
+- **Portfolio:** [ananthakrishnan17.github.io/portfolio](https://ananthakrishnan17.github.io/portfolio)[cite: 1]
+- **Email:** [ananthakrishnan1177@gmail.com](mailto:ananthakrishnan1177@gmail.com)[cite: 1]
+- **LinkedIn:** [Anantha Krishnan](https://www.linkedin.com/in/anantha-krishnan17)[cite: 1]
 
 ---
-
-Let's connect and collaborate on exciting projects! 🚀
+*Let's connect and build scalable solutions! 🚀*
